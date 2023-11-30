@@ -8,4 +8,4 @@
 
 
 
-![Alt text](https://github.com/salvarenga25/belly-button-challenge/blob/main/images/screenshot2.png)Part2
+![Alt text](https://github.com/salvarenga25/belly-button-challenge/blob/main/images/screenshot2.png)Part 2
